@@ -13,5 +13,7 @@ public class CircleCalculation2 {
 
         System.out.println("area:"+radius*radius*PI+"square centimeters");
 
+        keyboard.close();
+
     }
 }
